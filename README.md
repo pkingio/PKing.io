@@ -20,7 +20,6 @@ Short summary of the game:
  
     -Play instantly from your browser without registration
 
-
     -Explore a MASSIVE 3D world
 
     -Level up 1300+ different weapons, including swords, daggers 2 handed swords, bows, wands, and great axes
@@ -30,6 +29,9 @@ Short summary of the game:
     -Rare weapons you can find by exploring the map
 
 If you see a comment with a suggestion that you'd like to see in the game, please make sure to upvote it because we'd love to source ideas for the actual game from this repo rather than making it generic.
+
+
+![PKing.io Stylized Promo Image](https://github.com/pkingio/PKing.io/blob/master/pking.io%20artistic%20promo%20image.png)
 
 # Feedback & Suggestions
 
