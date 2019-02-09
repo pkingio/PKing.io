@@ -1,5 +1,5 @@
 ![PKing.io Logo](https://github.com/pkingio/PKing.io/blob/master/logo.png)
-# PKing.io
+# *COMING SOON!* PKing.io
 Online Multiplayer Browser 3D MMORPG IO Game
 
 We would like to announce a multiplayer .io browser game which we have been working on for the last couple of months and are finally ready to get initial feedback on the idea, as well as constructive criticism on what we have so far.
